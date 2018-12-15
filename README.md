@@ -1,15 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 26
 
-### Author: Student/Group Name
+### Author: Ed Puzino
 
 ### Links and Resources
+* [repl.it](https://repl.it/@edpuzino/Destructuring-and-Spread) This took about an hour once I watched class videos and read up on this and finally understood what I was supposed to do, which took about eight hours.
 * [repo](https://github.com/edpuzino/lab-26)
-* [travis](http://xyz.com)
 * [sandbox](https://codesandbox.io/s/2or7n1vq6r)
-* [f-endront-end](http://xyz.com)
 
 ### Modules
 
