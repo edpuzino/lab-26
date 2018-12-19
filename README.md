@@ -10,13 +10,30 @@
 * [repo](https://github.com/edpuzino/lab-26)
 * [sandbox](https://codesandbox.io/s/2or7n1vq6r)
 
-### Modules
+### Files
 
-#### `modulename.js`
-##### Exported Values and Methods
+#### `App.js`
+##### `Class App`
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+#### `Header.js`
+##### `Class Header`
+
+#### `Footer.js`
+##### `Class Footer`
+
+#### `Counter.js`
+##### `Class Counter`
+###### `updateCounter`
+###### `countUp`
+###### `countDown`
+
+#### `Index.js`
+##### `Class Main`
+
+#### `App.scss`
+
+
+
 
 ###### `bar(array) -> array`
 Usage Notes or examples
@@ -24,20 +41,11 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
+* `MONGODB_URI` - mongodb://localhost:27017/store
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* click on the link to codesandbox above
 
 #### UML
-Link to an image of the UML for your application and response to events
+![](./assets/lab26.jpg)
